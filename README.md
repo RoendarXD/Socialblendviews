@@ -20,8 +20,11 @@ $ pip install -r requirements.txt
 $ python Run.py
 ```
 
-## 📥 python instillation
-'''bash
+
+
+
+## 📥 python Installation
+```bash
 $ extract the folder to somewhere 
 $ copy the path o0f the main folder
 $ do Win + R type cmd 
@@ -29,8 +32,7 @@ $ do cd then path in then enter paste this pip install -r requirements.txt
 $ then do python Run.py
 $ and last step do in your browser tiktok link like this https://www.tiktok.com/@
 $ and thats it 
-...
-
+```
 
 
 
